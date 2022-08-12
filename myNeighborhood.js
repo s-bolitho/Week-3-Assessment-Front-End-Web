@@ -1,0 +1,4 @@
+const restaurantArray = [<a href='https://www.google.com/maps/search/polos+ada+ok/@34.7743007,-96.6834076,17z/data=!3m1!4b1'>Polo's Authentic Mexican Restaurant</a>, <a href="https://www.google.com/maps/place/La+Fiesta+Mexican+Restaurant/@34.7743007,-96.6834076,17z/data=!4m5!3m4!1s0x87b36c06a53db563:0x701f5bf0ae7732cc!8m2!3d34.772635!4d-96.670274">La Fiesta Mexican Restaurant</a>, <a href="https://www.google.com/maps/place/Philly's+Scratch+Kitchen/@34.7743007,-96.6834076,17z/data=!3m1!4b1!4m5!3m4!1s0x87b36dabb4f0dfbb:0xbdfd69d7b9822538!8m2!3d34.7767703!4d-96.6767832">Philly's Scratch Kitchen</a>, <a href="https://www.google.com/maps?q=taco+bell+ada+ok&rlz=1C1CHBF_enUS943US943&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiL5KL89cH5AhUynGoFHSMDBA0Q_AUoAXoECAIQAw">Taco Bell</a>]
+
+const random = Marh.floor(Math.random());
+console.log(random, restaurantArray[random])
